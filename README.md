@@ -73,7 +73,7 @@ This project allows easy selection of machine learning models to be trained and 
 mlp_switch = True  # Toggle MLP model
 lgb_switch = True  # Toggle LightGBM model
 cnn_switch = False  # Toggle CNN model
-
+```
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) for details.
 
